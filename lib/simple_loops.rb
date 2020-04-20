@@ -4,3 +4,4 @@ def loop_message_five_times(message)
     puts string
     count + 1
   end
+end
